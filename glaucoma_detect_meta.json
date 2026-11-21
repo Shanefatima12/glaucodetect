@@ -1,0 +1,1 @@
+{"img_size": 300, "threshold": 0.20927993953227997, "classes": ["Normal", "Glaucoma suspected"], "preprocess": "plain resize, 0-255 input"}
